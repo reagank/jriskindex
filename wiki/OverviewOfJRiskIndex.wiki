@@ -1,0 +1,16 @@
+#A brief overview of what JRiskIndex is
+
+= Introduction =
+
+This is the wiki for the JRiskIndex project. JRiskIndex is a java program designed to make a qualitative prediction about an individual's risk of a particular disease. It is the core of the dissertation project for [http://www.reagank.com Reagan Kelly], a Ph.D. student in [http://www.bioinformatics.med.umich.edu Bioinformatics] at the [http://www.umich.edu University of Michigan].
+
+The Javadoc for this project is available at http://jriskindex.googlecode.com/svn/trunk/Javadoc/doc/index.html
+
+More thorough documentation and overviews of the necessary file formats and configuration files will be added very soon.
+
+This project relies heavily on the [http://www.cs.waikato.ac.nz/ml/weka/ Weka] machine learning project. This project has modified the Weka source code, and so that modified code is available here under the GPL v2.0
+
+This project also utilizes several other projects, but these are used as provided and have not been modified in any way. The source code for each of these projects is available from that project's webpage.
+
+  * [http://www.jppf.org/ Java Parallel Processing Framework (JPPF)] - available under the Apache software license
+  * [http://www.jfree.org/jfreechart/ JFreeChart Graphing Library] - available under the LGPL
