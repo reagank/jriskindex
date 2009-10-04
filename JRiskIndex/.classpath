@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/jppf-admin.jar"/>
+	<classpathentry kind="lib" path="lib/jppf-client.jar"/>
+	<classpathentry kind="lib" path="lib/jppf-common.jar"/>
+	<classpathentry kind="lib" path="lib/jppf-server.jar"/>
+	<classpathentry kind="lib" path="lib/kUtils.jar"/>
+	<classpathentry kind="lib" path="lib/weka-mod.jar"/>
+	<classpathentry kind="lib" path="lib/jppf-common-node.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.9.jar"/>
+	<classpathentry kind="output" path="build/classes/weka"/>
+</classpath>
